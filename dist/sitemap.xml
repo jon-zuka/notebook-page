@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jon-zuka.github.io/notebook-page/</loc>
-         <lastmod>2025-03-31</lastmod>
+         <lastmod>1980-01-01</lastmod>
     </url>
     <url>
          <loc>https://jon-zuka.github.io/notebook-page/install_nixos_on_vps/</loc>
-         <lastmod>2025-03-31</lastmod>
+         <lastmod>1980-01-01</lastmod>
     </url>
     <url>
          <loc>https://jon-zuka.github.io/notebook-page/movies/</loc>
-         <lastmod>2025-03-31</lastmod>
+         <lastmod>1980-01-01</lastmod>
+    </url>
+    <url>
+         <loc>https://jon-zuka.github.io/notebook-page/nobel_prize/nobel_prize/</loc>
+         <lastmod>1980-01-01</lastmod>
     </url>
 </urlset>
